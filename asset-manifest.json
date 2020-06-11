@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/vannakvy/React-todoapp.git/static/css/main.eea0cffa.chunk.css",
-    "main.js": "/vannakvy/React-todoapp.git/static/js/main.042292c1.chunk.js",
-    "main.js.map": "/vannakvy/React-todoapp.git/static/js/main.042292c1.chunk.js.map",
-    "runtime-main.js": "/vannakvy/React-todoapp.git/static/js/runtime-main.01ec6efa.js",
-    "runtime-main.js.map": "/vannakvy/React-todoapp.git/static/js/runtime-main.01ec6efa.js.map",
-    "static/js/2.95d35dd5.chunk.js": "/vannakvy/React-todoapp.git/static/js/2.95d35dd5.chunk.js",
-    "static/js/2.95d35dd5.chunk.js.map": "/vannakvy/React-todoapp.git/static/js/2.95d35dd5.chunk.js.map",
-    "index.html": "/vannakvy/React-todoapp.git/index.html",
-    "precache-manifest.a666bfcbd08c87c5d1361406bf3dd211.js": "/vannakvy/React-todoapp.git/precache-manifest.a666bfcbd08c87c5d1361406bf3dd211.js",
-    "service-worker.js": "/vannakvy/React-todoapp.git/service-worker.js",
-    "static/css/main.eea0cffa.chunk.css.map": "/vannakvy/React-todoapp.git/static/css/main.eea0cffa.chunk.css.map",
-    "static/js/2.95d35dd5.chunk.js.LICENSE.txt": "/vannakvy/React-todoapp.git/static/js/2.95d35dd5.chunk.js.LICENSE.txt"
+    "main.css": "/vannakvy/React-todoapp/static/css/main.eea0cffa.chunk.css",
+    "main.js": "/vannakvy/React-todoapp/static/js/main.d0e24699.chunk.js",
+    "main.js.map": "/vannakvy/React-todoapp/static/js/main.d0e24699.chunk.js.map",
+    "runtime-main.js": "/vannakvy/React-todoapp/static/js/runtime-main.4fcea8e3.js",
+    "runtime-main.js.map": "/vannakvy/React-todoapp/static/js/runtime-main.4fcea8e3.js.map",
+    "static/js/2.95d35dd5.chunk.js": "/vannakvy/React-todoapp/static/js/2.95d35dd5.chunk.js",
+    "static/js/2.95d35dd5.chunk.js.map": "/vannakvy/React-todoapp/static/js/2.95d35dd5.chunk.js.map",
+    "index.html": "/vannakvy/React-todoapp/index.html",
+    "precache-manifest.06575526e33422454bd2ba2fa5798544.js": "/vannakvy/React-todoapp/precache-manifest.06575526e33422454bd2ba2fa5798544.js",
+    "service-worker.js": "/vannakvy/React-todoapp/service-worker.js",
+    "static/css/main.eea0cffa.chunk.css.map": "/vannakvy/React-todoapp/static/css/main.eea0cffa.chunk.css.map",
+    "static/js/2.95d35dd5.chunk.js.LICENSE.txt": "/vannakvy/React-todoapp/static/js/2.95d35dd5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01ec6efa.js",
+    "static/js/runtime-main.4fcea8e3.js",
     "static/js/2.95d35dd5.chunk.js",
     "static/css/main.eea0cffa.chunk.css",
-    "static/js/main.042292c1.chunk.js"
+    "static/js/main.d0e24699.chunk.js"
   ]
 }
